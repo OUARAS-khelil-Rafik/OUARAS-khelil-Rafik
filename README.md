@@ -33,6 +33,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ouaras-khelil-rafik&show_icons=true&locale=en&layout=compact" alt="ouaras-khelil-rafik" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouaras-khelil-rafik&show_icons=true&locale=en" alt="ouaras-khelil-rafik" /></p>
+<p align="rigth">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ouaras-khelil-rafik&show_icons=true&locale=en" alt="ouaras-khelil-rafik" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ouaras-khelil-rafik&" alt="ouaras-khelil-rafik" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ouaras-khelil-rafik&" alt="ouaras-khelil-rafik" /></p>
