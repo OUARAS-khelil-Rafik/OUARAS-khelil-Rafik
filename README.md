@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/khelil_ouaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="khelil_ouaras" height="30" width="40" /></a>
+<a href="https://twitter.com/khelil_ouaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="khelil_ouaras" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/khelil-rafik-ouaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khelil-rafik-ouaras" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21421576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21421576" height="30" width="40" /></a>
 <a href="https://kaggle.com/ouaraskhelilrafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ouaraskhelilrafik" height="30" width="40" /></a>
