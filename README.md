@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **k.ouaras@univ-boumerdes.dz / kh.ouaras@univ-alger.dz / kikoouaras@gmail.com**
 
-- ⚡ Fun fact **Honey never spoils! Archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The natural composition of honey, including its low water content and acidic pH, creates an inhospitable environment for bacteria and microorganisms, preserving it for an incredibly long time.**
+- ⚡ Fun fact **Honey never spoils! Archaeologists have discovered pots of honey in ancient Egyptian tombs that are over 3,000 years old and still perfectly edible. The natural composition of honey, including its low water content and acidic pH, creates an inhospitable environment for bacteria and microorganisms, preserving it for an incredibly long time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
