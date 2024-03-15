@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/khelil_ouaras" target="blank"><img src="https://img.shields.io/twitter/follow/khelil_ouaras?logo=twitter&style=for-the-badge" alt="khelil_ouaras" /></a> </p>
 
-- 🔭 I’m currently working on [IHSAS](https://github.com/OUARAS-khelil-Rafik/IHSAS)
+- 🔭 I’m currently working on [Iris Biometric System](https://github.com/OUARAS-khelil-Rafik/iris_biometric_system)
 
 - 🌱 I’m currently learning **Frameworks, courses ... etc**
 
