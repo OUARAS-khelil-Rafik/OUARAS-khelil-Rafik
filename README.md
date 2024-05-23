@@ -25,7 +25,7 @@
 <a href="https://stackoverflow.com/users/21421576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21421576" height="30" width="40" /></a>
 <a href="https://kaggle.com/ouaraskhelilrafik" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ouaraskhelilrafik" height="30" width="40" /></a>
 <a href="https://fb.com/goldkhalil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="goldkhalil" height="30" width="40" /></a>
-<a href="https://instagram.com/khalil_rafik_ouaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalil_rafik_ouaras" height="30" width="40" /></a>
+<a href="https://instagram.com/khelil_rafik_ouaras" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="khalil_rafik_ouaras" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
