@@ -92,18 +92,22 @@
 
 ### 📊 GitHub Stats  
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ouaras-khelil-rafik&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouaras-khelil-rafik&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ouaras-khelil-rafik&layout=compact&theme=radical" alt="languages" />
-</p>
 
 <!-- Profile Summary Card -->
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ouaras-khelil-rafik&theme=github_dark" alt="GitHub Profile Summary Card"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ouaras-khelil-rafik&theme=radical" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ouaras-khelil-rafik&show_icons=true&theme=radical" alt="stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ouaras-khelil-rafik&layout=compact&theme=radical" alt="languages" />
 </p>
 
 ---
