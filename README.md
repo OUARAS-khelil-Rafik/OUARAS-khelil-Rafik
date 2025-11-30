@@ -18,7 +18,7 @@
   [**AI Sentiment Analysis on Telecom Market (Ooredoo, Djezzy, Mobilis)**](https://github.com/OUARAS-khelil-Rafik/AS-Ooredoo_Djezzy_Mobilis-)  
 
 - 🌱 Currently learning:  
-  **MLOps, Cloud Computing (AWS, GCP, Azure), Advanced Frameworks**  
+  **MLOps, Cloud Computing (AWS, Azure), Advanced Frameworks**  
 
 - 💬 Ask me about:  
   **Python, Machine Learning, Deep Learning, AI (TensorFlow, Keras, PyTorch, Scikit-Learn), Data Viz, Android, Flutter, Web Dev (Node.js, Express.js, React.js)**  
